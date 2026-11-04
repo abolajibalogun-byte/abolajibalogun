@@ -1,6 +1,6 @@
 # Abolaji Lawal Balogun
 **Customer Success & Support Professional**  
-📍 Lagos, Nigeria | 📧 Abolajiilawal@gmail.com | 📱 +234 8029731919
+📍 Lagos, Nigeria | 📧 abolaji.lawal.balogun@gmail.com | 📱 +234 8029731919
 
 ---
 
@@ -17,6 +17,8 @@ I am a customer-focused professional with hands-on experience handling high-volu
 ---
 
 ## 💼 Featured Professional Experience
+
+### **Customer Support Officer** | Coronation Registrars Limited *(Jan 2026 - August 2026)*
 
 ### **Customer Support Officer** | JUMIA Nigeria *(Oct 2024 – Dec 2025)*
 - Managed high-volume customer inquiries via phone, email, and CRMs.
