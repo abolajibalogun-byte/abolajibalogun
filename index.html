@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abolaji Lawal Balogun | Customer Success Portfolio</title>
+    <script src="https://jsdelivr.net"></script>
+    <script src="https://unpkg.com"></script>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --accent: #38bdf8;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-main);
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: var(--accent);
+            font-weight: 500;
+            margin-bottom: 1rem;
+        }
+
+        .meta {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+
+        .meta a {
+            color: var(--text-muted);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            transition: color 0.2s;
+        }
+
+        .meta a:hover {
+            color: var(--accent);
+        }
+
+        section {
+            background: var(--card-bg);
+            padding: 2rem;
+            border-radius: 12px;
+            margin-bottom: 2rem;
+            border: 1px solid #334155;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--text-main);
+            border-bottom: 2px solid #334155;
+            padding-bottom: 0.5rem;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .metric-card {
+            background: #0f172a;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+            border: 1px solid #334155;
+        }
+
+        .metric-val {
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: var(--accent);
+        }
+
+        .metric-lbl {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.5rem;
+        }
+
+        .tag {
+            background: #0f172a;
+            color: var(--accent);
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            border: 1px solid #334155;
+        }
+
+        .project-item {
+            border-left: 3px solid var(--accent);
+            padding-left: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .project-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .project-title {
+            font-weight: 600;
+            font-size: 1.1rem;
+            color: var(--text-main);
+        }
+
+        .project-desc {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin: 0.25rem 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Abolaji Lawal Balogun</h1>
+            <div class="subtitle">Customer Success & Support Professional</div>
+            <div class="meta">
+                <span><i data-lucide="map-pin" style="width:16px;height:16px;vertical-align:middle;"></i> Lagos, Nigeria</span>
+                <a href="mailto:abolaji.lawal.balogun@gmail.com"><i data-lucide="mail" style="width:16px;height:16px;vertical-align:middle;"></i> Email Me</a>
+                <a href="#"><i data-lucide="linkedin" style="width:16px;height:16px;vertical-align:middle;"></i> LinkedIn</a>
+            </div>
+        </header>
+
+        <section id="about">
+            <h2><i data-lucide="user"></i> About Me</h2>
+            <p>I am a customer-focused professional with hands-on experience handling process management across e-commerce and corporate environments. Through cross-functional collaboration, I help businesses maximize customer retention, streamline support tickets, and optimize product adoption trajectories.</p>
+            
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-val">94%</div>
+                    <div class="metric-lbl">Average CSAT Score</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-val">&lt; 2hr</div>
+                    <div class="metric-lbl">First Response Time</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-val">15%</div>
+                    <div class="metric-lbl">Retention Increase</div>
+                </div>
+            </div>
+        </section>
+
+        <section id="skills">
+            <h2><i data-lucide="layers"></i> Tech Stack & Tools</h2>
+            <div class="tags">
+                <span class="tag">Zendesk</span>
+                <span class="tag">Salesforce</span>
+                <span class="tag">HubSpot CRM</span>
+                <span class="tag">Jira / Confluence</span>
+                <span class="tag">Intercom Help Desk</span>
+                <span class="tag">SQL & Data Analysis</span>
+                <span class="tag">SaaS Optimization</span>
+            </div>
+        </section>
+
+        <section id="projects">
+            <h2><i data-lucide="briefcase"></i> Experience & Key Projects</h2>
+            
+            <div class="project-item">
+                <div class="project-title">Zendesk Macros Overhaul & Optimization</div>
+                <div class="project-desc">Restructured the macros folder layout to save support agents over 45 seconds per ticket response. Implemented structured logic trees for tier-1 user complaints.</div>
+            </div>
+
+            <div class="project-item">
+                <div class="project-title">SaaS Onboarding Strategy Blueprint</div>
+                <div class="project-desc">Designed an educational email sequences track that reduced trial-to-paid drop-offs by ensuring customers discovered high-value feature thresholds within day three.</div>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>
