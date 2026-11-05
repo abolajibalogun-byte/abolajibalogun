@@ -1,44 +1,52 @@
-# Abolaji Lawal Balogun
-**Customer Success & Support Professional**  
-📍 Lagos, Nigeria | 📧 abolaji.lawal.balogun@gmail.com | 📱 +234 8029731919
+# 🗺️ Abolaji Lawal Balogun
+### Customer Success & Support Professional
+📍 **Lagos, Nigeria** | ✉️ [abolaji.lawal.balogun@gmail.com](mailto:abolaji.lawal.balogun@gmail.com) | 👥 [LinkedIn Profile](https://www.linkedin.com/in/abolajibalogunlawal)
 
 ---
 
-## 🚀 About Me
-I am a customer-focused professional with hands-on experience handling high-volume support, issue resolution, and process management across e-commerce and corporate environments. With a strong foundation in CRM tools and cross-functional collaboration, I help businesses retain customers by turning complex issues into seamless experiences.
+## 👤 About Me
+I am a customer-focused professional with hands-on experience handling process management across e-commerce and corporate environments. Through cross-functional collaboration, I help businesses retain customers, build sustainable support architectures, and turn technical challenges into seamless user experiences.
 
 ---
 
-## 🛠️ Core Skills & Tech Stack
-- **Customer Success:** Issue Resolution, Customer Relationship Management (CRM), Case Documentation, Process Compliance.
-- **Tools:** Zendesk, Salesforce, Sprinklr, Microsoft Excel, Office Tools.
-- **Soft Skills:** Problem Solving, Cross-Functional Collaboration, Advanced English Communication.
+## 🚀 Core Skills & Tech Stack
+
+### 🛠️ Support & CRM Tools
+![Zendesk](https://shields.io)
+![Salesforce](https://shields.io)
+![HubSpot](https://shields.io)
+
+### 📊 Analytics & Collaboration
+![Jira](https://shields.io)
+![Confluence](https://shields.io)
+![Notion](https://shields.io)
+![Slack](https://shields.io)
+
+### 📈 Expertise
+- **Relationship Management:** Onboarding, renewals, and proactive account health mapping.
+- **Process Optimization:** Creating macro templates, internal knowledge bases, and standard operating procedures (SOPs).
+- **Escalation Handling:** Managing critical tier support with speed, empathy, and high resolution rates.
 
 ---
 
-## 💼 Featured Professional Experience
-
-### **Customer Support Officer** | Coronation Registrars Limited *(Jan 2026 - August 2026)*
-
-### **Customer Support Officer** | JUMIA Nigeria *(Oct 2024 – Dec 2025)*
-- Managed high-volume customer inquiries via phone, email, and CRMs.
-- Resolved logistics bottlenecks (delivery delays, failed deliveries, returns) by collaborating with payment and dispatch teams.
-- Shared recurring data insights to improve overall service quality.
-
-### **Customer Service / Administrative Officer** | NYSC – Ifo LGA *(Nov 2023 – Oct 2024)*
-- Handled multi-stakeholder inquiries and maintained accurate digital records.
+## 📊 Key Impact Metrics (What I Drive)
+- **CSAT (Customer Satisfaction):** Consistently maintaining high feedback scores through active listening.
+- **FRT (First Response Time):** Optimizing support queues to drop response lag significantly.
+- **SLA Adherence:** Streamlining multi-channel communication to guarantee 100% compliance.
 
 ---
 
-## 📜 Certifications & Education
-- **B.Tech in Microbiology (Second Class Upper, 4.0 CGPA)** – Olusegun Agagu University of Science and Technology (2023)
-- **ALX Virtual Assistant Programme** – ALX Africa / Mastercard Foundation (2024)
-- **Customer Relationship Management** – Alpha Consulting Services (2024)
-- **Project Management** – Alpha Consulting Services (2024)
+## 🎯 Featured Work & Contributions
+*Below are some of the playbooks, configurations, and documentations I've built to scale customer support workflows:*
+
+* 🛠️ **[Zendesk Escalation & Macro Playbook](./)** – A comprehensive collection of automated messaging macros designed to shorten technical support loops.
+* 📚 **[Internal Knowledge Base Templates](./)** – Scalable documentation structures engineered for cross-functional support readiness.
+* 🔄 **[E-commerce Customer Journey Map](./)** – A visual and strategic guide detailing touchpoints to mitigate user churn.
 
 ---
 
-## 📂 Portfolio Projects & Case Studies
-*Explore the folders in my repositories to see how I solve problems:*
-1. [**Customer Support Guide (Zendesk Macros)**](./case-studies/zendesk-macros.md) - A mock handbook of boilerplate templates for managing angry e-commerce customers.
-2. [**E-Commerce Dispute Handling Process**](./case-studies/dispute-resolution.md) - A markdown flowchart demonstrating how I triage failed payment issues.
+## 🤝 Connect With Me
+If you are looking for a dedicated Customer Success Champion to optimize your support infrastructure, let's connect!
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/abolajibalogunlawal)
+[![Email](https://shields.io)](mailto:abolaji.lawal.balogun@gmail.com)
